@@ -19,6 +19,13 @@ body {
   padding: 0 15px;
 }
 
+.section{
+  width: 100vw;
+  height: 200vh;
+  background: rgb(189, 160, 160);
+  color: #fff;
+}
+
 .text{
   margin: 25px 0;
   font-size: 26px;
